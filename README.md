@@ -8,7 +8,10 @@ littlenines@github
 ------------------
 role:     software engineer
 status:   open to work, building for fun
-mood:     meow
+cpu:      caffeine-powered brain @ 3am
+mood:     undefined
+
+⬛🟩🟦🟪🟥🟨⬜
 ```
  
 </td>
