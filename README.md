@@ -15,10 +15,6 @@ languages   TypeScript, JavaScript
 backend     Node.js, AdonisJS
 databases   MySQL, PostgreSQL, SQLite
 
-littlenines@github:~$ cat now.txt
-building    <what you're working on>
-learning    <what you're exploring>
-
 littlenines@github:~$ ls ~/links
 github      https://github.com/littlenines
 portfolio   https://nemanja-galbinovic.vercel.app
