@@ -9,7 +9,7 @@ littlenines@github
 role:     software engineer
 status:   open to work, building for fun
 cpu:      caffeine-powered brain @ 3am
-mood:     undefined
+sleep:    undefined
 
 ⬛🟩🟦🟪🟥🟨⬜
 ```
